@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there. I'm Chathura 👋
+<ul>
+<li>📚 Studying at Faculty of Engineering, University of Peradeniya</li>
+<li>💻 Studying Computer Engineering</li>
+<li>📫 How to reach me: <a href="chathurawimalasiri@gmail.com">Chathura Wimalasiri</a></li>
+</ul>
 
 <!--
 **chathurawimalasiri/chathurawimalasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
