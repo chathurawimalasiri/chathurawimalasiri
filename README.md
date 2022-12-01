@@ -2,7 +2,7 @@
 <ul>
 <li>📚 Studying at Faculty of Engineering, University of Peradeniya</li>
 <li>💻 Studying Computer Engineering</li>
-<li>📫 How to reach me: <a href="chathurawimalasiri@gmail.com">Chathura Wimalasiri</a></li>
+<li>📫 How to reach me: <a href="chathurawimalasiri@gmail.com">chathurawimalasiri@gmail.com</a></li>
 </ul>
 
 <!--
