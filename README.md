@@ -1,10 +1,11 @@
 ### Hi there. I'm Chathura 👋
 <ul>
-<li>📚 Studying at Faculty of Engineering, University of Peradeniya</li>
-<li>💻 Studying Computer Engineering</li>
+<li>📚 Studied at Faculty of Engineering, University of Peradeniya</li>
+<li>💻 Studied Computer Engineering</li>
 <li>📫 How to reach me: <a href="chathurawimalasiri@gmail.com">chathurawimalasiri@gmail.com</a></li>
 </ul>
 
+#### 🤔 Looking for a PhD opportunity in Artificial Intelligence (AI)
 <!--
 **chathurawimalasiri/chathurawimalasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
