@@ -1,7 +1,7 @@
 ### Hi there. I'm Chathura 👋
 <ul>
 <li>📚 Studied at Faculty of Engineering, University of Peradeniya</li>
-<li>💻 Studied Computer Engineering</li>
+<li>💻 Specialized Computer Engineering</li>
 <li>📫 How to reach me: <a href="chathurawimalasiri@gmail.com">chathurawimalasiri@gmail.com</a></li>
 </ul>
 
