@@ -4,8 +4,6 @@
 <li>💻 Specialized Computer Engineering</li>
 <li>📫 How to reach me: <a href="chathurawimalasiri@gmail.com">chathurawimalasiri@gmail.com</a></li>
 </ul>
-
-#### 🤔 Looking for a PhD opportunity in Artificial Intelligence (AI)
 <!--
 **chathurawimalasiri/chathurawimalasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
