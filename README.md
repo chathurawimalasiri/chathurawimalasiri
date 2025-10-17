@@ -2,6 +2,7 @@
 <ul>
 <li>📚 Studied at Faculty of Engineering, University of Peradeniya</li>
 <li>💻 Specialized Computer Engineering</li>
+<li>📚 PhD Candidate at University of Melbourne </li>
 <li>📫 How to reach me: <a href="chathurawimalasiri@gmail.com">chathurawimalasiri@gmail.com</a></li>
 </ul>
 <!--
